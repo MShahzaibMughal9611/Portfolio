@@ -101,8 +101,8 @@
 }
 
 .details img:hover {
-    height: calc(100% +5px);
-    width: calc(100% +5px);
+    height: calc(100% + 5px);
+    width: calc(100% + 5px);
 }
 
 .social-icon {
